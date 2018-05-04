@@ -1,6 +1,6 @@
 # Graylog Extractor for huawei Info-center
 
-#ATTENTION: I MADE THIS FORK TO UPDATE THE EXTRACTOR TO WORK WITH THE DEFAULT GROK PATTERNS.
+# ATTENTION: I MADE THIS FORK TO UPDATE THE EXTRACTOR TO WORK WITH THE DEFAULT GROK PATTERNS.
 
 ### First a note
 In huawei info-center you cannot specify a tcp/udp port for sending messages to.
